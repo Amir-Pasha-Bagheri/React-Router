@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(212, 226, 226);
+}
+
+.div{
+    background-color:  rgba(12, 32, 9, 0.466);
+    border-radius: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 115px;
+    padding-left: 10px;
+}
+
+div button{
+    float: right;
+    margin-top: -22px;
+    margin-right: 88px;
+    width: 128px;
+    height: 34px;
+    border-radius: 30px;
+    background-color: darkkhaki;
+    border-color: bisque;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.p{
+    border-radius: 10px;
+    background-color: rgb(92, 90, 0);
+    width: 450px;
+    height: 43px;
+}
+
+.h1{
+    border-radius: 10px;
+    color: rgb(100, 41, 14);
+    width: 217px;
+    height: 40px;
+}

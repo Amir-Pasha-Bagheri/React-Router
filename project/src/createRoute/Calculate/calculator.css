@@ -1,0 +1,46 @@
+tr td input{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color:#4abe5d;
+    font-size: 50;
+    font-weight: 650;
+    border-radius: 10px;
+}
+#inputNumber{
+    width: 609px;
+    margin-top: 300px;
+    font-size: 30px;
+    background-color: #134242;
+    border: none;
+    border-radius: 5px;
+    color: blanchedalmond;
+    margin-left: 0
+}
+tr td input:hover{
+    cursor: pointer;
+    background-color: #256931;
+}
+tr td input:focus{
+    border: none;
+}
+.resultShow{
+    font-size: 30px;
+    color: blanchedalmond;
+    margin-bottom: -295px;
+    background-color: #134242;
+    width: 584px;
+    margin-left: -2px;
+    text-align: left;
+    padding-left: 28px;
+    border-radius: 8px;
+}
+
+.resultBox{
+    height: 50px;
+    margin-left: 0;
+    background-color: #6379006e;
+    width: 612px;
+    margin-left: 359px;
+    border-radius: 5px;
+}

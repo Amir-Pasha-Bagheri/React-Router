@@ -1,0 +1,49 @@
+.pShopping{
+    background-color: blanchedalmond;
+    float: right;
+    margin-right: 100px;
+    width: 86px;
+    border-radius: 30px;
+    padding-left: 4px;
+    height: 24px;
+}
+
+#cart{
+    float: right;
+    margin-right: -49px;
+    margin-top: 57px;
+    border-radius: 5px;
+    width: 108px;
+    padding-left: 7px;
+    background-color: darkcyan;
+}
+
+#total1{
+    width: 12px;
+    margin-right: -87px;
+    padding-left: 3px;
+}
+
+nav {
+    float: right;
+}
+
+#cart{
+    list-style-type: none;
+}
+
+.divShopping{
+    background-color: darkslategray;
+    width: 500px;
+    border-radius: 8px;
+    padding-left: 11px;
+    height: 67px;
+    color: white;
+}
+
+.inputShopping{
+    background-color: rgb(65, 51, 5);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
